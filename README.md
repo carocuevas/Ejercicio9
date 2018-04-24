@@ -12,6 +12,9 @@ Requerimientos específicos_
 	Sección del equipo
 
 
+Colores, imagenes y fonts disponibles en assets.
+
+
 
 HTML y CSS de la Web:
 
