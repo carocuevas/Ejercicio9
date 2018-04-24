@@ -21,9 +21,10 @@ HTML y CSS de la Web:
 	main
 		section__presentation
 			section_title
-			article_history	
+			section_history	
 				row
 					col-md-6
+						img_tomatoes
 					col-md-4
 			section origin
 				row
